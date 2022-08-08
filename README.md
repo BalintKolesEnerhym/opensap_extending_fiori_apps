@@ -7,4 +7,4 @@ Run in the Eclipse:
 2. Choose in the tree the Travel
 3. Click Preview
 
-![Eclipse Project Preview](https://imgur.com/mb7UWiX)
+[Eclipse Project Preview](https://i.imgur.com/mb7UWiX.png)
